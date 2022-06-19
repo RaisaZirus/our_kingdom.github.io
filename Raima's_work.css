@@ -1,0 +1,63 @@
+img {
+    width: 360px;
+    height: 215px;
+    border: solid 20px pink;
+    border-radius: 10px;
+   }
+h1 {
+    border: solid 10px MidnightBlue;
+    border-radius: 50px;
+    background: linear-gradient(mistyrose,midnightblue);
+    color: pink;
+    text-align: center;
+    
+   } 
+h3{
+   border: solid 10px MidnightBlue;
+    border-radius: 50px;
+    background-color: LightCyan;
+    text-align: center;
+   }
+.center{
+    text-align: center;
+    }
+p {
+    padding: 10px 10px 10px 10px;
+    border-radius: 50px 0 50px 0;
+    Background-color: MistyRose;
+   }
+body {
+    background-color: PaleTurquoise;
+    font-family: Fantasy;
+   }
+.h2{
+      background-color: MistyRose;
+      border-radius: 0 0 100px 0;
+      }
+h4 {
+       text-align: center;
+       background-color: lightcyan;
+       border: solid 3px MidnightBlue;
+       border-radius: 5px;
+       color: pink;
+       
+      }
+.p2{
+    background-color: lightgreen;
+    }
+.h1t{
+    background: linear-gradient(aquamarine, midnightblue);
+    color: aquamarine;
+    }
+.etvoila{
+    text-align: center;
+    font-style: italic;
+    background-color: paleTurquoise;
+    }
+.h1w{
+    background: linear-gradient(rgba(255, 188, 62, 0.959),midnightblue);
+    color: rgba(255, 188, 62, 0.959);
+    }
+.p3{
+    background-color: rgba(255, 188, 62, 0.959);
+    }
